@@ -8,5 +8,6 @@
 ## 必要知识
 ### 基础知识
 #### 熵的概念
-![image](https://github.com/2hanhan/Random-Forest/blob/main/1.png)
+<img src="https://github.com/2hanhan/Random-Forest/blob/main/1.png" width="400" height="250">
+
 #### gini系数
