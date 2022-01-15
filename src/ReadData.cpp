@@ -123,7 +123,7 @@ ReadData::ReadData(std::string dir)
 void ReadData::read_datas()
 {
 
-    std::cout << "加载数据集..." << std::endl;
+    // std::cout << "加载数据集..." << std::endl;
     std::ifstream inFile(datasdir, std::ios::in);
 
     // step 1 读取成字符串类型

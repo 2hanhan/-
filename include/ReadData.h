@@ -7,7 +7,7 @@
 
 /**
  * @brief 单个手写数字
- *
+ * 功能：用于存储单个手写数字样本
  */
 class Digit
 {
@@ -27,7 +27,7 @@ public:
 
 /**
  * @brief 数据集
- *
+ * 功能：用于加载存储数据集
  */
 class ReadData
 {
